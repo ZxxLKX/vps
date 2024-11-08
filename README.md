@@ -20,7 +20,8 @@ CONTACT FOR ORDERS : https://wa.me/6285335903344
 ### APA YANG BARU
 - FIX BUG EXPIRED
 - FIX MENU
-  
+- FIX TELEGRAM BOT
+
 ### FITUR TAMBAHAN
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
