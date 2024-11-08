@@ -17,6 +17,10 @@ CONTACT FOR ORDERS : https://wa.me/6285335903344
 - UBUNTU 20.04.05
 - DEBIAN 10
 
+### APA YANG BARU
+- FIX BUG EXPIRED
+- FIX MENU
+  
 ### FITUR TAMBAHAN
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
